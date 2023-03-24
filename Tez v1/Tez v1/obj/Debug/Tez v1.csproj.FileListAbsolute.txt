@@ -1,0 +1,146 @@
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\Tez v1.exe.config
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\Tez v1.exe
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\Tez v1.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.AssemblyReference.cache
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Form1.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Properties.Resources.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.GenerateResource.cache
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CoreCompileInputs.cache
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CopyComplete
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez v1.exe
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez v1.pdb
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Ana_Ekran.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kartı_Kayıtları.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Tanımlama.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kayıt_Genel_Ekran.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Genel_Ekranı.resources
+C:\Users\avcio\Desktop\Tez ERP\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.exe.config
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.exe
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.AssemblyReference.cache
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Ana_Ekran.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Genel_Ekranı.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Tanımlama.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Form1.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Properties.Resources.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kartı_Kayıtları.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kayıt_Genel_Ekran.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.GenerateResource.cache
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CoreCompileInputs.cache
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CopyComplete
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.exe
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.pdb
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Card_Stock_Records.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Main_Display.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock_General_Screen.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_General_Screen.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_Identification.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock_Database__Stock_Code_.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Veritabanı__Stok_Kodu_.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Veritabanı.resources
+C:\Users\avcio\Desktop\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_Database.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.exe.config
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.exe
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.AssemblyReference.cache
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Ana_Ekran.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Card_Stock_Records.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Genel_Ekranı.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Tanımlama.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Veritabanı.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Form1.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Main_Display.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Properties.Resources.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock_Database__Stock_Code_.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock_General_Screen.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kartı_Kayıtları.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kayıt_Genel_Ekran.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Veritabanı__Stok_Kodu_.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_Database.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_General_Screen.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_Identification.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.GenerateResource.cache
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CoreCompileInputs.cache
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CopyComplete
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.exe
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.pdb
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Reçete_Genel_Ekran.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Reçete_Kaydı.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Reçete_Listesi.resources
+C:\Users\Berkay Alişan\Desktop\lisans tezi\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Reçete_İzleme.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.exe.config
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.exe
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\Tez v1.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.AssemblyReference.cache
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Ana_Ekran.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Card_Stock_Records.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Tanımlama.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo_Veritabanı.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Depo.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Main_Display.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Properties.Resources.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Reçete_Listesi.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Reçete_İzleme.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock_Database__Stock_Code_.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock_General_Screen.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stock.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Kartı_Kayıtları.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Stok_Veritabanı__Stok_Kodu_.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_Database.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_General_Screen.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse_Identification.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Warehouse.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.GenerateResource.cache
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CoreCompileInputs.cache
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.csproj.CopyComplete
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.exe
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez v1.pdb
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Recete_Kaydı.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Recete_kayıt_genel_ekranı.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.GirisEkranı.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.StokKayıtGenelEkranı.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.DepoKayıtGenelEkranı.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.Recete.resources
+C:\Users\avcio\Desktop\Tez v1.1\Tez v1\Tez v1\Tez v1\obj\Debug\Tez_v1.ReceteRaporGenelEkranı.resources
